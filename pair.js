@@ -58,19 +58,15 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝚃𝚛𝚎𝚡 𝚖𝚍 𝑆𝑒𝑠𝑠𝑖𝑜𝑛
+┃GATHA-RA 𝚖𝚍 𝑆𝑒𝑠𝑠𝑖𝑜𝑛
 ┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
 ┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝙱𝙴𝚁𝙰_𝚃𝙴𝙲𝙷
+❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = Popid x confronter
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || YouTube Channel = https://Instagram.com/@_BERA_TECH?si=3cp6Y2r__cXZg-Wi
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
-Wanna talk? https://wa.me/254743982206?
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*𝙱𝙴𝚁𝙰_𝚃𝙴𝙲𝙷 𝐴 𝑃𝑟𝑜 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟*
+
+©*Popid 𝐴 𝑃𝑟𝑜 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
