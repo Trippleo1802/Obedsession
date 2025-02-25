@@ -58,17 +58,23 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃GATHA-RA 𝚖𝚍 𝑆𝑒𝑠𝑠𝑖𝑜𝑛
+┃𝐃𝐫𝐞𝐚𝐝𝐞𝐝 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐛𝐲 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫
 ┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
 ┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = Popid x confronter
+❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 =𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❤︎︎ wa.me/254796283064
 
-©*Popid 𝐴 𝑃𝑟𝑜 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟*
+🏓𝐅𝐨𝐫 𝐇𝐞𝐫𝐨𝐤𝐮 𝐚𝐜𝐜
+🧨𝐅𝐨𝐫 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
+👄𝐅𝐨𝐫 𝐂𝐜 𝐁𝐢𝐧𝐬
+🖥𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐏𝐫𝐞𝐦𝐢𝐮𝐦
 
-_Don't Forget To Give Star To My Repo_`
+©*𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫 𝐴 𝑃𝑟𝑜 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟*
+
+_Normal bot & Bug bot Deployment_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
