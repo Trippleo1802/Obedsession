@@ -2,7 +2,7 @@
     "name": "Wasi Session Generator",
     "description": "I'm Web Session Generator by Itxx Me Wasi",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "repository": "https://github.com/Trippleo1802/OBEDVMD?tab=readme-ov-file",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
