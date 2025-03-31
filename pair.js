@@ -69,7 +69,7 @@ router.get('/', async (req, res) => {
 
 👅Channel : https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I
 
-☆Thanks to Confronter☆
+☆Thanks to obed-tech☆
 
 
 ©*𝐎𝐁𝐄𝐃 𝐴 𝑃𝑟𝑜 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟*
